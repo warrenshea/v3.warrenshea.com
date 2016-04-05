@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<experience>
+  <job id="job-4">
+    <title><![CDATA[Development Lead]]></title>
+    <company><![CDATA[BMO Bank of Montreal]]></company>
+    <department><![CDATA[eBusiness & Digital Marketing]]></department>
+    <date><![CDATA[JUN 2013 - PRESENT]]></date>
+    <details><![CDATA[
+      <ul class="details">
+        <li>Management of a team of 16+ Developers (8 Full Time Employees and 8+ Contractors)</li>
+        <li>Initiatives
+          <ul>
+            <li>Cross-Training : Giving different developers different responsibilities</li>
+            <li>Empowerment : Giving Intermediate Developers senior responsibilities (ex. Dev Team Lead) in an effort to grow them)</li>
+            <li>Daily Scrum : 1-minute updates from each team member discussing past day accomplishments and next day objectives</li>
+          </ul>
+        </li>
+        <li>2013 Performance Rating: ?</li>
+      </ul>
+    ]]></details>
+  </job>
+  <job id="job-3">
+    <title><![CDATA[Senior Front-End Web Developer]]></title>
+    <company><![CDATA[BMO Bank of Montreal]]></company>
+    <department><![CDATA[eChannel]]></department>
+    <date><![CDATA[OCT 2010 - PRESENT]]></date>
+    <details><![CDATA[
+      <ul class="details">
+        <li>Development and maintenance of web content for BMO, BMO Capital Markets, BMO adviceDirect, BMO InvestorLine, BMO Investor Solutions, BMO ETFs, BMO Guardian Funds, and other BMO lines of business (XHTML / HTML5 / JS / jQuery / CSS2 / AJAX / XML / ASP Classic VB / ASP.NET / MSSQL)</li>
+        <li>Lead developer for redesign and launch of BMOCM.com. This included providing feedback on information architecture, coding final page templates, and overseeing a small team of developers</li>
+        <li>Full lifecycle development experience with involvement in all steps including: project scope & plan, design, development, testing, implementation, and maintenance</li>
+        <li>Technical consultant to internal team, Technology & Operations, Information Security groups, and external vendors</li>								
+        <li>Ensuring standards and best practices are met for all projects including high web performance and efficiency, cross-browser compatibility, SEO, and web accessibility</li>
+        <li>Mobile web development using HTML5 / AJAX</li>
+        <li>Actively contribute to discussions and brainstorming sessions</li>
+        <li>Work with managers to scope out and determine requirements for new projects</li>
+        <li>Held learning sessions on topics such as web accessibility and front-end best practices to help facilitate knowledge sharing</li>
+        <li>Subject Matter Expert (SME) for a majority of tools and CMSes the development team uses</li>
+        <li>Able to manage and mentor co-op and developer resources</li>
+        <li>Interviewed prospective front-end developers</li>
+        <li>2012 &amp; 2011 Quarterly Top Performance award</li>
+        <li>2012 Performance Rating: Outstanding <em>(highest rating)</em></li>
+        <li>2011 Performance Rating: Distinguished</li>
+      </ul>
+    ]]></details>
+  </job>
+  <job id="job-2">
+    <title><![CDATA[Front-End Web Developer]]></title>
+    <company><![CDATA[BMO Bank of Montreal]]></company>
+    <department><![CDATA[eBusiness]]></department>
+    <date><![CDATA[NOV 2007 - OCT 2010]]></date>
+    <details><![CDATA[
+      <ul class="details">
+        <li>Development maintenance of web content for :
+          <ul>
+            <li>BMO Bank of Montreal (bmo.com)</li>
+            <li>BMO Capital Markets (bmocm.com) </li>
+            <li>BMO InvestorLine (bmoinvestorline.com)</li>
+            <li>BMO Investor Solutions (bmocm.com/investorsolutions)</li>
+            <li>BMO Exchange Traded Funds (etfs.bmo.com)</li>
+            <li>BMO Guardian Funds (bmoguardianfunds.com)</li>
+            <li>BMO Intranet</li>
+          </ul>
+        </li>
+        <li>Developed web application (ASP.NET / MSSQL) to populate content on a webpage from an excel document. Also created script (VBS) to automate the task of creating PDFs through this web application</li>
+        <li>Developed web administrator tools (ASP Classic VB / ASP.NET / MSSQL / PHP / mySQL) with CRUD database interactions</li>
+        <li>Initiated, designed, and developed internal development documentation site (XHTML / CSS2 / ASP.NET / MSSQL) to help facilitate knowledge sharing across the team. Site was built with asynchronous search</li>
+        <li>Developed and designed the BMO Podcast site (XHTML / CSS2 / JS / XML / AJAX / JSON / RSS2.0) to centralize all BMO podcasts (bmo.com/podcast)</li>
+        <li>Lead developer on 6-month web project to integrate the AIG Life of Canada website into BMO.com</li>
+        <li>Technical lead on bringing Google Web Optimizer A/B and Multivariate testing into BMO.com</li>
+        <li>Developer for the redesign and launch of the new enterprise site (BMO.com) in 2010</li>
+        <li>2010 Quarterly Top Performance award &amp; 2009 MVP Award</li>
+        <li>2010 Performance Rating: Solid</li>
+        <li>2009 Performance Rating: Exceptional Contribution <em>(highest rating)</em></li>
+        <li>2008 Performance Rating: Successfully Meetings Expectations</li>
+      </ul>
+    ]]></details>
+  </job>
+  <job id="job-1">
+    <title><![CDATA[Web Developer]]></title>
+    <company><![CDATA[BMO Bank of Montreal]]></company>
+    <department><![CDATA[Capital Markets]]></department>
+    <date><![CDATA[FEB 2007 - NOV 2007]]></date>
+    <details><![CDATA[
+      <ul class="details">
+        <li>Developed simple administrator tools (ASP Classic VB / ASP.NET / MSSQL) for clients with CRUD database interactions</li>
+        <li>Developed and designed Intranet Portal (XHTML / CSS2 / ASP Classic VB) for the MCP team. The team continues to currently use this design</li>
+        <li>Developed and designed over 25 conference microsites (XHTML / CSS2) including registrations and surveys (ASP Classic VB / MSSQL)</li>
+        <li>Produced various Flash demos with user interaction and Flash movies with custom vector drawn animation as well as provided voice-overs</li>
+        <li>Completed hundreds of publish/promoting tasks including code files, images, and MSSQL database tables using the MSSQL Import and Export Wizard</li>
+        <li>Designed multiple microsite mockups and developed the chosen mockup</li>
+        <li>Designed dozens of website advertisements for both Internet and Intranet sites</li>
+        <li>Reviewed and published multiple daily news items</li>
+        <li>2007 Performance Rating: Exceptional Contribution <em>(highest rating)</em></li>
+      </ul>
+    ]]></details>
+  </job>
+  <job id="job-0">
+    <title><![CDATA[University of Waterloo]]></title>
+    <company><![CDATA[Bachelor of Mathematics]]></company>
+    <department><![CDATA[Co-op Program]]></department>
+    <date><![CDATA[JAN 2001 - DEC 2006]]></date>
+    <details><![CDATA[
+      <div class="info0"><div style="float:right;"><br>MAY 2005 - AUG 2005</div><strong>Junior Web Developer</strong><br>BMO Bank of Montreal, Capital Markets Marketing Communication & Planning</div>
+      <ul class="details">
+        <li>Received Outstanding evaluation <em>(highest rating)</em></li>
+      </ul>
+      <div class="info0"><div style="float:right;"><br>SEP 2004 - DEC 2004</div><strong>Junior Web Developer</strong><br>Toronto District School Board, E-Learning</div>
+      <ul class="details">
+        <li>Received Excellent evaluation</li>
+      </ul>
+      <div class="info0"><div style="float:right;"><br>JAN 2004 - APR 2004</div><strong>Junior Web Designer</strong><br>BMO Bank of Montreal, IBG Web Team</div>
+      <ul class="details">
+        <li>Received Outstanding evaluation <em>(highest rating)</em></li>
+      </ul>
+      <div class="info0"><div style="float:right;"><br>MAY 2003 - AUG 2003</div><strong>Junior Web Designer</strong><br>BMO Bank of Montreal, IBG Web Team</div>
+      <ul class="details">
+        <li>Received Outstanding evaluation <em>(highest rating)</em></li>
+      </ul>
+      <div class="info0"><div style="float:right;"><br>SEP 2002 - DEC 2002</div><strong>Assistant Computer LAN Administrator</strong><br>Kingsway College School</div>
+      <ul class="details">
+        <li>Received Outstanding evaluation <em>(highest rating)</em></li>
+      </ul>
+      <div class="info0"><div style="float:right;"><br>JAN 2002 - APR 2002</div><strong>Assistant Computer LAN Administrator</strong><br>Kingsway College School</div>
+      <ul class="details">
+        <li>Received Very Good evaluation</li>
+      </ul>
+    ]]></details>
+  </job>
+</experience>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<warrenshea>
+ <page id="intro">
+   <title><![CDATA[warrenshea.com]]></title>
+   <primary><![CDATA[
+
+<div id="intro-content">
+
+<h1>Welcome !</h1>
+<p>This site showcases my <a onclick="getPage('portfolio');return false;">online portfolio</a>, provides a <a onclick="getPage('proficiency');return false;">proficiency summary</a> of my skills, and highlights milestones in my <a onclick="getPage('experience');return false;">previous employment experience</a>. If you have any questions, please feel free to <a onclick="getPage('contact');return false;">contact me</a>.</p>
+
+<h2>What I offer</h2>
+<p>I'm an all-around web expert that believes in high quality of work and doing what is best rather than what is fastest. I bring energy and a positive attitude to this career that I love. I'm easy to work with and I listen to others but voice my own concerns and opinions if needed. I am fundamentally an independent developer who enjoys challenging puzzles and organized code.</p>
+
+<h2>What to expect from me</h2>
+<p><strong><a href="http://worldofwarren.com/?p=4161" target="_blank">Reliability</a></strong> - I meet my deadlines and the people that I work with have faith in my work. I have a personally high standard of quality and always develop to the best of my current abilities.</p>
+<p><strong><a href="http://worldofwarren.com/?p=4161" target="_blank">Passion</a></strong> - I love web development and design. I develop personal projects after work and on weekends. My learning doesn't stop when the work day is over and I'm constantly trying to find new ways to improve my abilities in my free time.</p>
+<p><strong>Solutions and options</strong> - <em>"I don't believe in the no-win scenario"</em>. I enjoy problem solving and rarely give up if I believe there's a possible solution to a problem. I can't turn off my brain when I'm faced with something I can't figure out.</p>
+<p><strong>Evolution</strong> - Whether it's learning new development languages, staying on top of current technological trends, or improving my soft skills, I'm always trying to improve and adapt. In the professional world, survival means keeping a sharp mind and understanding what skills will be useful in the future.</p>
+
+<h2>What I'm looking for</h2>
+<p>At the moment, I am not really looking for a new role as I've recently started a new role as Development Lead as of June 2013. I'd like to see where this role takes me before pursuing other opportunities. <em>Unless the opportunity is too good to pass up ;)</em></p>
+<!--<p>I'm currently looking for a full-time Development/Technical Lead or Senior Front-end Developer (or equivalent) position to further supplement my existing experience.</p>
+<p>I'm open to the role of a Junior to Intermediate Back-end Developer role with specialization in either ASP.NET and MSSQL or PHP and mySQL. I'm also open to the role of Intermediate Front-end Developer provided that the environment will allow me to learn and grow.</p>
+<p>I am currently <em>not</em> interested in professional roles focused around native mobile development but don't have any concerns with an HTML5 mobile development/responsive design role.</p>-->
+
+</div>
+
+     ]]>
+   </primary>
+   <secondary><![CDATA[
+
+<div class="secondary-content-item">
+  <h3>Bio</h3>
+  <center><img src="common/images/profile.jpg" class="profile-pic" alt="Photo of Warren Shea" title="Portrait of Warren Shea"></center>
+  <p><strong>current role</strong><br>Development Lead and Manager</p>
+  <p><strong>current place of employment</strong><br>Bank of Montreal, eBusiness</p>
+</div>
+
+<div class="secondary-content-item">
+  <h3>Education</h3>
+  <p><strong>Bachelor of Mathematics, Co-op</strong><br>University of Waterloo, 2006</p>
+  <p><strong>Ontario Secondary School Diploma</strong><br>Langstaff Secondary School, 2001</p>
+</div>
+
+<div class="secondary-content-item">
+  <h3>Resume</h3>
+  <p><a href="common/images/warren-shea-resume.pdf" target="_blank"><img src="common/images/pdf-icon.png"> Download</a> [34.7 Kb]</p>
+</div>
+
+     ]]>
+   </secondary>
+   <level>0</level>
+ </page>
+ <page id="proficiency">
+   <title><![CDATA[warrenshea.com - proficiency]]></title>
+   <primary><![CDATA[
+
+<div id="proficiency-content">
+
+<h1>Development skill</h1>
+<ul class="proficiency-summary level1">
+  <li class="lang">XHTML</li><li class="pro rate9">&nbsp;</li><li class="exp">10+ years</li>
+  <li class="lang">CSS</li><li class="pro rate9">&nbsp;</li><li class="exp">10+ years</li>
+  <li class="lang">JavaScript</li><li class="pro rate9">&nbsp;</li><li class="exp">10+ years</li>
+  <li class="lang">jQuery</li><li class="pro rate8">&nbsp;</li><li class="exp">3 years</li>
+  <li class="lang">HTML5</li><li class="pro rate7">&nbsp;</li><li class="exp">3 years</li>
+  <li class="lang">ASP.NET C#</li><li class="pro rate5">&nbsp;</li><li class="exp">6 years</li>
+  <li class="lang">PHP</li><li class="pro rate6">&nbsp;</li><li class="exp">3 years</li>
+  <li class="lang">SQL & mySQL</li><li class="pro rate6">&nbsp;</li><li class="exp">9 years</li>
+  <li class="lang">ASP Classic VB</li><li class="pro rate7">&nbsp;</li><li class="exp">9 years</li>
+</ul>
+
+<h2>Application</h2>
+<ul class="proficiency-summary level2">
+  <li class="lang">Google Search Appliance</li><li class="pro rate7">&nbsp;</li><li class="exp">4 years</li>
+  <li class="lang">Microsoft Visual Studio</li><li class="pro rate7">&nbsp;</li><li class="exp">6 years</li>
+  <li class="lang">Microsoft SQL Management Studio</li><li class="pro rate7">&nbsp;</li><li class="exp">9 years</li>
+  <li class="lang">WampServer</li><li class="pro rate5">&nbsp;</li><li class="exp">2 years</li>
+  <li class="lang">Adobe Dreamweaver</li><li class="pro rate8">&nbsp;</li><li class="exp">10+ years</li>
+  <li class="lang">Adobe Photoshop</li><li class="pro rate8">&nbsp;</li><li class="exp">10+ years</li>
+  <li class="lang">Adobe Illustrator</li><li class="pro rate7">&nbsp;</li><li class="exp">10+ years</li>
+  <li class="lang">Adobe Flash</li><li class="pro rate6">&nbsp;</li><li class="exp">10+ years</li>
+  <li class="lang">Adobe Premiere</li><li class="pro rate6">&nbsp;</li><li class="exp">7 years</li>
+  <li class="lang">Adobe Soundbooth</li><li class="pro rate5">&nbsp;</li><li class="exp">7 years</li>
+</ul>
+
+<h2>Content management system</h2>
+<ul class="proficiency-summary level3">
+  <li class="lang">OpenText Web Content Management 8.5</li><li class="pro rate7">&nbsp;</li><li class="exp">1 year</li>
+  <li class="lang">OpenText Vignette 7.6</li><li class="pro rate9">&nbsp;</li><li class="exp">4 years</li>
+  <li class="lang">OpenText Vignette 6</li><li class="pro rate9">&nbsp;</li><li class="exp">6 years</li>
+  <li class="lang">WordPress</li><li class="pro rate8">&nbsp;</li><li class="exp">3 years</li>
+  <li class="lang">MediaWiki</li><li class="pro rate6">&nbsp;</li><li class="exp">2 years</li>
+  <li class="lang">Drupal</li><li class="pro rate6">&nbsp;</li><li class="exp">2 years</li>
+</ul>
+
+</div>
+
+     ]]>
+   </primary>
+   <secondary><![CDATA[
+
+<div class="secondary-content-item">
+  <h3>Web qualifications</h3>
+  <p><strong>Development techniques</strong><br>Responsive Design, OOP, AJAX, JSON, XML, XSLT, DOM, DHTML, CSS Sprites, CSS Reset, CSS Grid Layout, and Dynamic CSS</p>
+  <p><strong>Web accessibility</strong><br>Practical knowledge and experience with the WCAG 2.0 Level AA standards including fundamental Color Contrast principles</p>
+  <p><strong>Best practices</strong><br>HTML semantics. Decreasing latency. Efficient and proper use of web image types.</p>
+  <p><strong>Multiple browser support</strong><br>Support of Chrome, Firefox, Internet Explorer (including IE6 and IE7), Safari, Camino, Opera, and Chrome Frame</p>
+  <p><strong>SEO</strong><br>Familiar with web analytics (Adobe Site Catalyst, Omniture, Google Analytics, and WebTrends), Google Web Optimizer (A/B & Multivariate Testing)</p>
+  <p><strong>APIs</strong><br>Facebook, Twitter, Google Chart, YouTube, Google Maps, and Feedburner</p>
+</div>
+
+     ]]>
+   </secondary>
+ </page>
+ <page id="experience">
+   <title><![CDATA[warrenshea.com - experience]]></title>
+   <primary><![CDATA[
+
+<div id="experience-content">
+
+<h1>Professional Experience</h1>
+<div id="show-all">show all</div>
+<div id="exp-details-wrapper">
+  <div id="mask"></div>
+</div>
+<ul id="scroll">
+  <li><div id="exp-up"><span></span></div></li>
+  <li><div id="exp-down"><span></span></div></li>
+</ul>
+
+</div>
+
+     ]]>
+   </primary>
+   <secondary><![CDATA[
+
+<div class="secondary-content-item">
+  <h3>Timeline</h3>
+  Click on the job experience below to view more details.<br>
+  <ul id="graph-overview">
+    <li id="overview4" class="overview active"><a href="#job-details-4" class="experience-panel"><div><strong>Development Lead</strong><br><span class="role-details">BMO Bank of Montreal<br>eBusiness</span></div></a></li>
+    <li id="overview3" class="overview"><a href="#job-details-3" class="experience-panel"><div><strong>Senior Front-End<br> Web Developer</strong><br><span class="role-details">BMO Bank of Montreal<br>eChannel</span></div></a></li>
+    <li id="overview2" class="overview"><a href="#job-details-2" class="experience-panel"><div><strong>Front-End Web Developer</strong><br><span class="role-details">BMO Bank of Montreal<br>eBusiness</span></div></a></li>
+    <li id="overview1" class="overview"><a href="#job-details-1" class="experience-panel"><div><strong>Web Developer</strong><br><span class="role-details">BMO Bank of Montreal<br>Capital Markets</span></div></a></li>
+    <li id="overview0" class="overview"><a href="#job-details-0" class="experience-panel"><div><strong>University of Waterloo</strong></div></a></li>
+  </ul>
+  <ul id="years"><li>2014</li><li>2013</li><li>2012</li><li>2011</li><li>2010</li><li>2009</li><li>2008</li><li>2007</li><li>2006</li><li>2005</li><li>2004</li><li>2003</li><li>2002</li><li>2001</li></ul>
+  <div class="clear"></div>
+</div>
+
+     ]]>
+   </secondary>
+ </page>
+ <page id="portfolio">
+   <title><![CDATA[warrenshea.com - portfolio]]></title>
+   <primary><![CDATA[
+
+<div id="portfolio-content">
+
+<div id="loader-image"><div></div></div>
+
+<div id="portfolio-item">
+  <div id="close"><span></span>close</div>
+  <div id="portfolio-title"></div>
+  <div id="portfolio-image"></div>
+  <div id="portfolio-other"></div>
+  <div id="portfolio-long-description"></div>
+</div>
+
+<div id="options" class="clearfix">
+  <div class="option-combo first">
+    <ul id="filter" class="option-set clearfix" data-option-key="filter">
+      <li><a href="#show-all" data-option-value="*" class="selected">show all</a></li>
+      <li><a href="#developmentanddesign" data-option-value=".developmentanddesign">development & design</a></li>
+      <li><a href="#development" data-option-value=".development">development</a></li>
+      <li><a href="#design" data-option-value=".design">design</a></li>
+      <li><a href="#other" data-option-value=".other">other</a></li>
+    </ul>
+  </div>
+  <div class="option-combo">
+    <ul id="sort-direction" class="option-set clearfix" data-option-key="sortAscending">
+      <li><a href="#sortAscending=true" data-option-value="true" class="selected">most recent</a></li>
+      <li><a href="#sortAscending=false" data-option-value="false">oldest</a></li>
+    </ul>
+  </div>
+</div>
+<div class="clear"></div>
+
+<div id="isotope-container" class="super-list variable-sizes clearfix">
+</div>
+
+</div>
+
+     ]]>
+   </primary>
+   <secondary><![CDATA[
+
+<div id="secondary-content-portfolio" class="secondary-content-item">
+  <h3>Portfolio</h3>
+  <p><strong>Click on a thumbnail</strong> to view details of each portfolio item</p>
+  <p>or</p>
+  <p>Use the <strong>left and right arrow keys</strong> to quickly navigate through the portfolio items. The <strong>esc key</strong> will close the item.</p>
+</div>
+
+     ]]>
+   </secondary>
+ </page>
+ <page id="contact">
+   <title><![CDATA[warrenshea.com - contact]]></title>
+   <primary><![CDATA[
+
+<div id="contact-content">
+
+<div id="contact-form">
+  <h1>Contact</h1>
+  <form name="contact_form" method="post" action="" onSubmit="submit_form();return false;"> 
+    <fieldset> 
+      <legend>Contact Details</legend> 
+      <label for="name">Name :</label> 
+      <input type="text" id="name_id" name="name" required placeholder="John Smith">
+      <label for="email">Email :</label> 
+      <input type="email" id="email_id" name="email" required placeholder="john.smith@gmail.com">
+    </fieldset>
+
+    <fieldset> 
+      <legend>Your Message</legend> 
+      <label for="subject">Subject :</label> 
+      <select name="subject" id="subject_id" required> 
+        <option value="">Choose an option from below</option> 
+        <option value="General Inquiry">General Inquiry</option> 
+        <option value="Website Feedback">Website Feedback</option> 
+        <option value="Technical Support">Technical Support</option> 
+      </select>
+
+      <label for="message">Message :</label> 
+      <textarea name="message" id="message_id" required></textarea>
+    </fieldset>
+
+    <input type="submit" name="submit" value="Send Message" id="submit_id">
+    <div class="clear"></div>
+  </form>
+</div>
+<div id="contact-form-success">
+  <h1>Thank you !</h1>
+  <p>Your message has been received.</p>
+</div>
+
+</div>
+
+     ]]>
+   </primary>
+   <secondary><![CDATA[
+
+<div class="secondary-content-item">
+  <h3>Contact information</h3>
+  <div class="title">email</div><div class="info">warren.shea@gmail.com</div><div class="clear"></div>
+  <div class="title">cell phone</div><div class="info">416 . 417 . 4061</div><div class="clear"></div>
+  <div class="title">address</div><div class="info">Toronto, Ontario</div><div class="clear"></div>
+  <div class="title">&nbsp;</div><div class="info"><a href="http://maps.google.ca/maps?q=the+annex+toronto&um=1&ie=UTF-8&hq=&hnear=0x882b349744e6976d:0xf5611fc8d73e027e,The+Annex,+Toronto,+ON&gl=ca&ei=LZX9Taf8DMX0gAeh84HeCw&sa=X&oi=geocode_result&ct=title&resnum=1&ved=0CBoQ8gEwAA" target="_blank">The Annex</a></div><div class="clear"></div>
+</div>
+
+     ]]>
+   </secondary>
+ </page>
+ <page id="more">
+   <title><![CDATA[warrenshea.com - more]]></title>
+   <primary><![CDATA[
+
+<div id="more-content">
+
+<ul id="more">
+  <li><a class="icons" id="wow" href="http://worldofwarren.com" target="_blank"><span></span><h1>worldofwarren.com</h1></a>
+    <p>For more information about me, I regularly maintain a <a href="http://www.worldofwarren.com" target="_blank">personal site</a> with an active <a href="http://www.worldofwarren.com" target="_blank">blog</a>, a look into my <a href="http://www.worldofwarren.com/hobbies/" target="_blank">hobbies</a> and <a href="http://www.worldofwarren.com/projects/" target="_blank">current projects</a>, as well as a <a href="http://www.worldofwarren.com/gallery/" target="_blank">gallery</a> of art that I've done and photographs that interest me.</p>
+    <p>This website also showcases various designs as well as highlights a high level of CSS mastery through the use of website themes.</p>
+  </li>
+  <li><a class="icons" id="linkedin" href="http://ca.linkedin.com/in/warrenshea" target="_blank"><span></span><h1>LinkedIn</h1></a></li>
+  <li><a class="icons" id="facebook" href="http://www.facebook.com/warren.shea" target="_blank"><span></span><h1 class="more">Facebook</h1></a></li>
+  <li><a class="icons" id="googleplus" href="https://plus.google.com/u/0/111430428572243809511/posts" target="_blank"><span></span><h1 class="more">Google+</h1></a></li>
+  <li><a class="icons" id="twitter" href="http://twitter.com/warrenshea/" target="_blank"><span></span><h1 class="more">Twitter</h1></a></li>
+  <li><a class="icons" id="rss" href="http://feeds.feedburner.com/warrenshea" target="_blank"><span></span><h1 class="more">RSS</h1></a></li>
+  <li><a class="icons" id="youtube" href="http://www.youtube.com/warrenshea/" target="_blank"><span></span><h1 class="more">YouTube</h1></a></li>
+  <li><a class="icons" id="foursquare" href="https://foursquare.com/warrenshea" target="_blank"><span></span><h1 class="more">foursquare</h1></a></li>
+  <li><a class="icons" id="pinterest" href="http://pinterest.com/warrenshea/" target="_blank"><span></span><h1 class="more">Pinterest</h1></a></li>
+  <li><a class="icons" id="deviantart" href="http://icqn.deviantart.com/" target="_blank"><span></span><h1 class="more">deviantART</h1></a></li>
+  <li><a class="icons" id="flickr" href="http://www.flickr.com/photos/warrenshea/" target="_blank"><span></span><h1 class="more">Flickr</h1></a></li>
+</ul>
+
+</div>
+
+     ]]>
+   </primary>
+   <secondary><![CDATA[
+
+<div class="secondary-content-item">
+  <h3>Twitter</h3>
+  <div id="twitter-update-list"></div>
+</div>
+
+     ]]>
+   </secondary>
+ </page>
+</warrenshea>

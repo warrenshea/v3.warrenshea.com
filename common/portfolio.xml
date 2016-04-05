@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+  <item>
+    <order>1</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[Warren Shea]]></title>
+    <description><![CDATA[Version 3]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[warrenshea-v3.png]]></img>
+    <large-thumb-img><![CDATA[warrenshea-v3-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[warrenshea-v3-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A resume / online portfolio that showcases the professional milestones and abilities of Warren Shea. It heavily utilizes code techniques such as AJAX and XML and was built to take advantage of HTML5, CSS3, and jQuery.<br><br>HTTP requests are kept at a minumum. There is only 1 CSS file and 1 JavaScript file loaded. The CSS is loaded at the top of the page and the JavaScript is loaded at the bottom. Common images are often in CSS Sprites to minimize requests.<br><br>This site most accurately highlights my current front-end development skills in HTML, CSS, and JavaScript.]]></long-description>
+    <info><![CDATA[
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2012</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.warrenshea.com/',1050,800);">www.warrenshea.com</a></p>
+<p><strong>front-end skills used</strong><br>HTML5<br>CSS3 & CSS2<br>JavaScript</a></p>
+<p><strong>development and design techniques</strong><br>AJAX<br>XML<br>DHTML<br>CSS Sprites</p> 
+<p><strong>other frameworks and tools</strong><br>jQuery 1.7.2<br>jQuery UI 1.8.19<br>jQuery.ScrollTo 1.4.2<br>jQuery Isotope 1.5.06<br>SWFObject 2.2<br>Google Analytics</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>2</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Capital Markets]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-capital-markets.png]]></img>
+    <large-thumb-img><![CDATA[bmo-capital-markets-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-capital-markets-thumb.png]]></thumb-img>
+    <long-description><![CDATA[Acted as both Technical Advisor and Senior Lead Developer on this 18-month project required to migrate code from a legacy server running ASP Classic VB and SQL Server 2005 to a new server running ASP.NET 4.0 and SQL Server 2008.<br><br>During the migration, the front-end code was updated to use aspects of HTML5 and CSS3. Also, registration forms built using ASP Classic VB were updated to use ASP.NET and prevent against SQL Injection.<br><br>The code is <a href="javascript:popup('view-source:http://www.bmocm.com/',1000,800);">clean and well formatted</a>. The site uses leading double slash paths for both HTTP and HTTPS protocol, disables compatibility mode for IE7 and IE8, and uses GIF alternatives and IE6 CSS hacks for alpha transparent PNGs.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2012</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.bmocm.com/',1000,800);">www.bmocm.com</a></p>
+<p><strong>front-end skills used</strong><br>HTML5 & XHTML 1.0<br>CSS3 & CSS2<br>JavaScript</p>
+<p><strong>back-end skills used</strong><br>ASP Classic VB 3.0<br>ASP.NET VB 1.1<br>ASP.NET C# 2.0</p>
+<p><strong>development and design techniques</strong><br>DHTML<br>CSS Sprites</p> 
+<p><strong>other frameworks and tools</strong><br>jQuery 1.3.2<br>jQuery UI 1.7.2<br>SWFObject 1.5<br>Omniture Analytics</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>3</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Ultimate Fans Contest Form]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-ultimate-fans.png]]></img>
+    <large-thumb-img><![CDATA[bmo-ultimate-fans-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-ultimate-fans-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A simple contest registration form. Client-side JavaScript validation occurs prior to submission which checks against regular expression input rules defined by our Technology & Operations department.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('https://www.bmo.com/ultimatefancontest/',1000,800);">www.bmo.com/ultimatefancontest</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>4</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[World of Warren]]></title>
+    <description><![CDATA[Google+ Theme]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[worldofwarren-googleplus.png]]></img>
+    <large-thumb-img><![CDATA[worldofwarren-googleplus-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[worldofwarren-googleplus-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A personal site built to use / learn PHP and integrate a blogging tool and publishing platform (WordPress). The theme used for this site is based off the old Google+ design.]]></long-description>
+    <info><![CDATA[
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.worldofwarren.com/googleplus/',1000,800);">www.worldofwarren.com</a></p>
+<p><strong>front-end skills used</strong><br>HTML5 & XHTML 1.0<br>CSS3 & CSS2<br>JavaScript</a></p>
+<p><strong>back-end skills used</strong><br>PHP</p>
+<p><strong>development and design techniques</strong><br>DHTML<br>CSS Sprites</p> 
+<p><strong>other frameworks and tools</strong><br>jQuery 1.7.2<br>jQuery UI 1.8.19<br>jQuery prettyPhoto 3.1.4<br>SWFObject 2.2<br>RSS2.0<br>Google Analytics</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+<p><strong>other items of note</strong><br>Integrated WordPress</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>5</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[World of Warren]]></title>
+    <description><![CDATA[Gmail Theme]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[worldofwarren-gmail.png]]></img>
+    <large-thumb-img><![CDATA[worldofwarren-gmail-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[worldofwarren-gmail-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A personal site built to use / learn PHP and integrate a blogging tool and publishing platform (WordPress). The theme used for this site is based off the old Gmail design.]]></long-description>
+    <info><![CDATA[
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2010</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.worldofwarren.com/gmail/',1000,800);">www.worldofwarren.com</a></p>
+<p><strong>front-end skills used</strong><br>HTML5 & XHTML 1.0<br>CSS3 & CSS2<br>JavaScript</a></p>
+<p><strong>back-end skills used</strong><br>PHP</p>
+<p><strong>development and design techniques</strong><br>DHTML<br>CSS Sprites</p> 
+<p><strong>other frameworks and tools</strong><br>jQuery 1.7.2<br>jQuery UI 1.8.19<br>jQuery prettyPhoto 3.1.4<br>SWFObject 2.2<br>RSS2.0<br>Google Analytics</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+<p><strong>other items of note</strong><br>Integrated WordPress</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>6</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[World of Warren]]></title>
+    <description><![CDATA[Naruto Theme]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[worldofwarren-naruto.png]]></img>
+    <large-thumb-img><![CDATA[worldofwarren-naruto-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[worldofwarren-naruto-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A personal site built to use / learn PHP and integrate a blogging tool and publishing platform (WordPress). The theme used for this site is based off the anime [japanese cartoon] called Naruto.]]></long-description>
+    <info><![CDATA[
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2010</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.worldofwarren.com/naruto/',1200,800);">www.worldofwarren.com</a></p>
+<p><strong>front-end skills used</strong><br>HTML5 & XHTML 1.0<br>CSS3 & CSS2<br>JavaScript</a></p>
+<p><strong>back-end skills used</strong><br>PHP</p>
+<p><strong>development and design techniques</strong><br>DHTML<br>CSS Sprites</p> 
+<p><strong>other frameworks and tools</strong><br>jQuery 1.7.2<br>jQuery UI 1.8.19<br>jQuery prettyPhoto 3.1.4<br>SWFObject 2.2<br>RSS2.0<br>Google Analytics</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+<p><strong>other items of note</strong><br>Integrated WordPress</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>7</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[World of Warren]]></title>
+    <description><![CDATA[Megaman Theme]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[worldofwarren-megaman.png]]></img>
+    <large-thumb-img><![CDATA[worldofwarren-megaman-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[worldofwarren-megaman-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A personal site built to use / learn PHP and integrate a blogging tool and publishing platform (WordPress). The theme used for this site is based off the 8-bit NES game called Megaman.]]></long-description>
+    <info><![CDATA[
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2010</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.worldofwarren.com/megaman/',1200,800);">www.worldofwarren.com</a></p>
+<p><strong>front-end skills used</strong><br>HTML5 & XHTML 1.0<br>CSS3 & CSS2<br>JavaScript</a></p>
+<p><strong>back-end skills used</strong><br>PHP</p>
+<p><strong>development and design techniques</strong><br>DHTML<br>CSS Sprites<br>Animated GIFs</p> 
+<p><strong>other frameworks and tools</strong><br>jQuery 1.7.2<br>jQuery UI 1.8.19<br>jQuery prettyPhoto 3.1.4<br>SWFObject 2.2<br>RSS2.0<br>Google Analytics</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+<p><strong>other items of note</strong><br>Integrated WordPress</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>8</order>
+    <filter><![CDATA[developmentanddesign development]]></filter>
+    <title><![CDATA[BMO Mobile]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-mobile.png]]></img>
+    <large-thumb-img><![CDATA[bmo-mobile-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-mobile-thumb.png]]></thumb-img>
+    <long-description><![CDATA[This &quot;App&quot; is a simple webpage rendered in HTML5 / CSS3 using AJAX and XML. The mobile content will display if the device is an iPhone, Android, Blackberry, or Windows Phone 7. Otherwise, the user will be redirected to a BMO.com page.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('https://www.bmo.com/mobile/',1000,800);">www.bmo.com/mobile</a><br><span class="small">(requires mobile device to render properly)</span></p>
+<p><strong>front-end skills used</strong><br>HTML5 & XHTML 1.0<br>CSS3 & CSS2<br>JavaScript</a></p>
+<p><strong>development and design techniques</strong><br>AJAX<br>XML<br>DHTML<br>CSS Sprites</p> 
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>9</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[Holiday Greeting Card]]></title>
+    <description><![CDATA[Order Form &amp; Email]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[holiday-card.png]]></img>
+    <large-thumb-img><![CDATA[holiday-card-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[holiday-card-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A small web tool used to create Email Holiday Cards. This tool allows the user to choose among 6 design templates and send a templated or customized text message within the card.<br><br><a href="javascript:popup('/holiday-card',1000,660);">Try the Holiday Greeting Card tool</a>.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2010</p>
+<p><strong>url</strong><br><a href="javascript:popup('/holiday-card',1000,660);">www.warrenshea.com/holiday_card</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>back-end skills used</strong><br>PHP</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>10</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Message Centre]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-message-centre.png]]></img>
+    <large-thumb-img><![CDATA[bmo-message-centre-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-message-centre-thumb.png]]></thumb-img>
+    <long-description><![CDATA[This small landing page was created to inform current BMO Online Banking users of the new Message Centre. It uses jQuery Accordion and Cufon.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.bmo.com/msgcentre/',1000,600);">www.bmo.com/msgcentre</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>other frameworks and tools</strong><br>jQuery 1.4.2<br>jQuery UI 1.8.2<br>Cufon</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>11</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Nation&apos;s Cup Registration Form]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-nations-cup.png]]></img>
+    <large-thumb-img><![CDATA[bmo-nations-cup-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-nations-cup-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A simple contest registration form. Client-side JavaScript validation occurs prior to submission which checks against regular expression input rules defined by our Technology & Operations department.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('https://www.bmo.com/nationscup/',1000,800);">www.bmo.com/nationscup</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>12</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Workshop Registration Form]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-workshop.png]]></img>
+    <large-thumb-img><![CDATA[bmo-workshop-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-workshop-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A simple workshop registration form. Client-side JavaScript validation occurs prior to submission which checks against regular expression input rules defined by our Technology & Operations department.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('https://www.bmo.com/workshop/',1000,800);">www.bmo.com/workshop</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>13</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Soccer Clubs Form]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-soccer-clubs.png]]></img>
+    <large-thumb-img><![CDATA[bmo-soccer-clubs-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-soccer-clubs-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A simple registration form. Client-side JavaScript validation occurs prior to submission which checks against regular expression input rules defined by our Technology & Operations department.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('https://www.bmo.com/soccerclubs/',1000,800);">www.bmo.com/soccerclubs</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>14</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[Green Energy Partners]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[green-energy-partners.png]]></img>
+    <large-thumb-img><![CDATA[green-energy-partners-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[green-energy-partners-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A small 15 page marketing site for Green Energy Partners. This small organization provides technical, economic and marketing information needed to support energy conservation and renewable energy decisions.<br><br><em><strong>Note</strong>: The contents of greenenergypartners.ca were disabled in early 2012 after 3 years. The site is now temporarily hosted on this domain.</em>]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2009</p>
+<p><strong>url</strong><br><a href="javascript:popup('/greenenergypartners',1080,800);">www.greenenergypartners.ca</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</a></p>
+<p><strong>back-end skills used</strong><br>ASP.NET VB 1.1<br>ASP Classic VB</p>
+<p><strong>other frameworks and tools</strong><br>jQuery 1.3.2<br>YUI 2.7<br>SWFObject 1.5</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS4<br>Adobe Photoshop CS4</p>
+    ]]></info>
+  </item>
+  <item>  
+    <order>15</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Guardian Funds]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-guardian-funds.png]]></img>
+    <large-thumb-img><![CDATA[bmo-guardian-funds-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-guardian-funds-thumb.png]]></thumb-img>
+    <long-description><![CDATA[This project consisted of taking a mockup and reskinning the current Guardian Funds site with minimal changes to the code.<br><br>Difficulties in this project arose because the code was managed by a different group. A one-page site with the incorporated design was created on our servers and the code was sent to the other development team to implement the changes on their end. The site was also built around a custom grown content management system so the front-end changes had to fit around that existing code. In the end, the project was successful and the code was substantially cleaned up and improved.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2011</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.bmoguardianfunds.com/',1000,800);">www.bmoguardianfunds.com</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>16</order>
+    <filter><![CDATA[design]]></filter>
+    <title><![CDATA[CompanyX]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[companyx.png]]></img>
+    <large-thumb-img><![CDATA[companyx-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[companyx-thumb.png]]></thumb-img>
+    <long-description><![CDATA[An unused, generic company website homepage mockup.]]></long-description>
+    <info><![CDATA[
+<h3>design</h3>
+<p><strong>current status</strong><br>completed 2010</p>
+<p><strong>software used</strong><br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>17</order>
+    <filter><![CDATA[other]]></filter>
+    <title><![CDATA[Web Accessibility Guide]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[pdf]]></type>
+    <width><![CDATA[626]]></width>
+    <height><![CDATA[600]]></height>
+    <img><![CDATA[accessibility-developer-presentation.pdf]]></img>
+    <large-thumb-img><![CDATA[accessibility-developer-presentation-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[accessibility-developer-presentation-thumb.png]]></thumb-img>
+    <long-description><![CDATA[Last year, there was a 6-month project to bring BMO.com up to Web Content Accessibility Guidelines (WCAG) 2.0 Level AA standards. Acting as Developer Lead, Team Lead, and Project Manager, I managed a small team of 4 to bring thousands of web pages up to this standard.<br><br>This document was created as a Web Accessibility Cheat Sheet that other web developers on my team used to make their front-end code conform to the WCAG 2.0 Level AA standard.]]></long-description>
+    <info><![CDATA[
+<h3>guides &amp; documents</h3>
+<p><strong>guideline used</strong><br>WCAG 2.0 Level A, AA, AAA</p>
+<p><strong>front-end skills used</strong><br>HTML5<br>XHTML 1.0</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>18</order>
+    <filter><![CDATA[development]]></filter>
+    <title><![CDATA[BMO Asia]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-asia.png]]></img>
+    <large-thumb-img><![CDATA[bmo-asia-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-asia-thumb.png]]></thumb-img>
+    <long-description><![CDATA[This large microsite was created to inform people overseas of BMO Financial Group. It contains a Chinese equivalent site.<br><br>This site was originally designed and developed by a vendor but was brought in and internally maintained within BMO.]]></long-description>
+    <info><![CDATA[
+<h3>development</h3>
+<p><strong>current status</strong><br>completed 2008</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.bmo.com/asia/',1000,800);">www.bmo.com/asia</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>other frameworks and tools</strong><br>jQuery 1.2.6</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS4<br>Adobe Photoshop CS4</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>19</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[BMO Podcast]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[bmo-podcast.png]]></img>
+    <large-thumb-img><![CDATA[bmo-podcast-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-podcast-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A centralized podcast site for most of the podcasts on BMO.com.<br><br>There is a jQuery Accordion menu and all the Podcast changes are done with XML, RSS2.0 and AJAX. The rating system is built using AJAX calls and JSON notation. The podcasts, in mp3 format, play through an internally built Flash player.]]></long-description>
+    <info><![CDATA[
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2009</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.bmo.com/podcast/en/',850,800);">www.bmo.com/podcast</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</a></p>
+<p><strong>development and design techniques</strong><br>AJAX<br>JSON<br>XML<br>RSS2.0<br>DHTML<br>CSS Sprites</p> 
+<p><strong>other frameworks and tools</strong><br>jQuery 1.3.2<br>jQuery Accordion<br>SWFObject 2.0</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS4<br>Adobe Photoshop CS4</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>20</order>
+    <filter><![CDATA[design]]></filter>
+    <title><![CDATA[Rehab]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[rehab.png]]></img>
+    <large-thumb-img><![CDATA[rehab-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[rehab-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A homepage mockup for a World of Warcraft guild called Rehab, on the Ner&apos;Zhul server.]]></long-description>
+    <info><![CDATA[
+<h3>design</h3>
+<p><strong>current status</strong><br>completed 2007</p>
+<p><strong>software used</strong><br>Adobe Photoshop CS</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>21</order>
+    <filter><![CDATA[other]]></filter>
+    <title><![CDATA[Captain Currency and the Model Code]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[video]]></type>
+    <width><![CDATA[626]]></width>
+    <height><![CDATA[470]]></height>
+    <img><![CDATA[jdnJ1ix0IqU]]></img>
+    <large-thumb-img><![CDATA[bmo-model-code-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-model-code-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A flash movie created to aid a speaker during a presentation. All character and backgrounds were hand drawn in Adobe Illustrator and brought into Adobe Flash, then Adobe Premiere. Voice over and sound editing done with Adobe Soundbooth. Jimmy&apos;s voice supplied by me.]]></long-description>
+    <info><![CDATA[
+<h3>video</h3>
+<p><strong>current status</strong><br>completed 2007</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.youtube.com/watch?v=jdnJ1ix0IqU',1000,800);">youtube.com/watch?v=jdnJ1ix0IqU</a></p>
+<p><strong>software used</strong><br>Adobe Flash 8<br>Adobe Illustrator 8<br>Adobe Premiere Pro<br>Adobe Soundbooth CS3</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>22</order>
+    <filter><![CDATA[other]]></filter>
+    <title><![CDATA[Captain Currency and Foreign Exchange]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[video]]></type>
+    <width><![CDATA[626]]></width>
+    <height><![CDATA[470]]></height>
+    <img><![CDATA[Wogc3JhDS4w]]></img>
+    <large-thumb-img><![CDATA[bmo-foreign-exchange-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-foreign-exchange-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A flash movie created to aid a speaker during a presentation. All character and backgrounds were hand drawn in Adobe Illustrator and brought into Adobe Flash, then Adobe Premiere. Voice over and sound editing done with Adobe Soundbooth. Both voices of Captain Currency and Jimmy&apos;s were supplied by me.]]></long-description>
+    <info><![CDATA[
+<h3>video</h3>
+<p><strong>current status</strong><br>completed 2007</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.youtube.com/watch?v=Wogc3JhDS4w',1000,800);">youtube.com/watch?v=Wogc3JhDS4w</a></p>
+<p><strong>software used</strong><br>Adobe Flash 8<br>Adobe Illustrator 8<br>Adobe Premiere Pro<br>Adobe Soundbooth CS3</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>23</order>
+    <filter><![CDATA[developmentanddesign development design other]]></filter>
+    <title><![CDATA[Healthcare Remittance 360]]></title>
+    <description><![CDATA[for DirectLine for Business]]></description>
+    <type><![CDATA[flash]]></type>
+    <width><![CDATA[626]]></width>
+    <height><![CDATA[485]]></height>
+    <img><![CDATA[bmo-healthcare-remit-360.swf]]></img>
+    <large-thumb-img><![CDATA[bmo-healthcare-remit-360-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-healthcare-remit-360-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A flash tour presented at a conference to demonstrate the Healthcare Remittance 360 process.]]></long-description>
+    <info><![CDATA[
+<h3>development &amp; design</h3>
+<p><strong>current status</strong><br>completed 2007</p>
+<p><strong>software used</strong><br>Adobe Flash 8</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>24</order>
+    <filter><![CDATA[design other]]></filter>
+    <title><![CDATA[TV Screen for BMO Conference]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[flash]]></type>
+    <width><![CDATA[626]]></width>
+    <height><![CDATA[352]]></height>
+    <img><![CDATA[bmo-tv-screen.swf]]></img>
+    <large-thumb-img><![CDATA[bmo-tv-screen-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[bmo-tv-screen-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A flash animation displayed at a conference.]]></long-description>
+    <info><![CDATA[
+<h3>design</h3>
+<p><strong>current status</strong><br>completed 2007</p>
+<p><strong>software used</strong><br>Adobe Flash 8</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>25</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[Horde Rock Cafe]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[horde-rock-cafe.png]]></img>
+    <large-thumb-img><![CDATA[horde-rock-cafe-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[horde-rock-cafe-thumb.png]]></thumb-img>
+    <long-description><![CDATA[This small microsite was created for a guild playing the World of Warcraft.]]></long-description>
+    <info><![CDATA[
+<h3>development &amp; design</h3>
+<p><strong>current status</strong><br>completed 2005</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.horderockcafe.com/',1080,800);">www.horderockcafe.com</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>back-end skills used</strong><br>ASP Classic 3.0 VB</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS<br>Adobe Photoshop CS</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>26</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[Horde Rock Cafe]]></title>
+    <description><![CDATA[Blackwing Lair Razorgore Kiting Guide]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[horde-rock-cafe-bwl.png]]></img>
+    <large-thumb-img><![CDATA[horde-rock-cafe-bwl-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[horde-rock-cafe-bwl-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A short web guide for the kiting (a World of Warcraft term) dungeon guards for shamans in Blackwing Lair.]]></long-description>
+    <info><![CDATA[
+<h3>development &amp; design</h3>
+<p><strong>current status</strong><br>completed 2005</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.horderockcafe.com/bwl/',1080,800);">www.horderockcafe.com/bwl</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>back-end skills used</strong><br>ASP Classic 3.0 VB</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS<br>Adobe Photoshop 7.0</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>27</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[Horde Rock Cafe]]></title>
+    <description><![CDATA[Out of Combat Resurrection Guide]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[horde-rock-cafe-ooc.png]]></img>
+    <large-thumb-img><![CDATA[horde-rock-cafe-ooc-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[horde-rock-cafe-ooc-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A short web guide for the role of Out of Combat Resurrector for World of Warcraft Molten Core dungeon. This “exploit” was fixed in-game months after I created the guide.]]></long-description>
+    <info><![CDATA[
+<h3>development &amp; design</h3>
+<p><strong>current status</strong><br>completed 2005</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.horderockcafe.com/ooc/',1080,800);">www.horderockcafe.com/ooc</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</p>
+<p><strong>back-end skills used</strong><br>ASP Classic 3.0 VB</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS<br>Adobe Photoshop 7.0</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>28</order>
+    <filter><![CDATA[developmentanddesign development design other]]></filter>
+    <title><![CDATA[Duke of Connaught Public School]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[flash]]></type>
+    <width><![CDATA[626]]></width>
+    <height><![CDATA[455]]></height>
+    <img><![CDATA[duke/scene2b.swf]]></img>
+    <large-thumb-img><![CDATA[tdsb-duke-of-connaught-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[tdsb-duke-of-connaught-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A complex flash movie done during my employment at the Toronto District School Board. The video describes a classroom activity to measure velocity.]]></long-description>
+    <info><![CDATA[
+<h3>design</h3>
+<p><strong>current status</strong><br>completed 2004</p>
+<p><strong>software used</strong><br>Macromedia Flash 5</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>29</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[Warren Shea]]></title>
+    <description><![CDATA[Version 2]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[azn-prometheus-2003.png]]></img>
+    <large-thumb-img><![CDATA[azn-prometheus-2003-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[azn-prometheus-2003-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A personal site. Frames and tables were used heavily in this site.]]></long-description>
+    <info><![CDATA[
+<h3>development &amp; design</h3>
+<p><strong>current status</strong><br>completed 2003</p>
+<p><strong>url</strong><br><a href="javascript:popup('v2/',790,543);">www.warrenshea.com/v2</a></p>
+<p><strong>front-end skills used</strong><br>HTML 4.01<br>CSS1<br>JavaScript</p>
+<p><strong>software used</strong><br>Adobe Photoshop 5.5<br>Notepad</p>
+    ]]></info>
+  </item>
+  <item>
+    <order>30</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[Warren Shea]]></title>
+    <description><![CDATA[Version 1]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[azn-prometheus-2000.png]]></img>
+    <large-thumb-img><![CDATA[azn-prometheus-2000-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[azn-prometheus-2000-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A personal site. Frames and tables were used heavily in this site.]]></long-description>
+    <info><![CDATA[
+<h3>development &amp; design</h3>
+<p><strong>current status</strong><br>completed 2000</p>
+<p><strong>url</strong><br><a href="javascript:popup('v1/',790,543);">www.warrenshea.com/v1</a></p>
+<p><strong>front-end skills used</strong><br>HTML 4.01<br>CSS1<br>JavaScript</p>
+<p><strong>software used</strong><br>Adobe Photoshop 5.0<br>Notepad</p>
+    ]]></info>
+  </item>
+</portfolio>
+<!-- 
+BLOGGER
+
+  <item>
+    <order>17</order>
+    <filter><![CDATA[developmentanddesign development design]]></filter>
+    <title><![CDATA[Sea Salt Fish & Chips]]></title>
+    <description><![CDATA[undefined]]></description>
+    <type><![CDATA[img]]></type>
+    <img><![CDATA[sea-salt-fish-and-chips.png]]></img>
+    <large-thumb-img><![CDATA[sea-salt-fish-and-chips-large-thumb.png]]></large-thumb-img>
+    <thumb-img><![CDATA[sea-salt-fish-and-chips-thumb.png]]></thumb-img>
+    <long-description><![CDATA[A small site for a friend&apos;s business. There was no content or design given to me so everything is from scratch. Even typing up the menu from a printed version.]]></long-description>
+    <info><![CDATA[
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2010</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.seasaltfishandchips.com/',1000,800);">http://www.seasaltfishandchips.com</a></p>
+<p><strong>front-end skills used</strong><br>XHTML 1.0<br>CSS2<br>JavaScript</a></p>
+<p><strong>other frameworks and tools</strong><br>Google Analytics</p>
+<p><strong>software used</strong><br>Adobe Dreamweaver CS5<br>Adobe Photoshop CS5</p>
+    ]]></info>
+  </item>
+  
+  
+<h3>development & design</h3>
+<p><strong>current status</strong><br>completed 2012</p>
+<p><strong>url</strong><br><a href="javascript:popup('http://www.warrenshea.com/',1000,800);">http://www.warrenshea.com</a></p>
+
+<p><strong>front-end skills used</strong><br>
+HTML5<br>
+XHTML 1.0<br>
+CSS3 & CSS2<br>
+JavaScript</a></p>
+
+<p><strong>back-end skills used</strong><br>
+ASP Classic VB 3.0<br>
+ASP.NET VB 1.1<br>
+ASP.NET C# 2.0<br>
+PHP</p>
+
+<p><strong>development and design techniques</strong><br>
+AJAX<br>
+XML<br>
+DHTML<br>
+CSS Sprites</p> 
+
+<p><strong>other frameworks and tools</strong><br>
+jQuery 1.7.2<br>
+jQuery UI 1.8.19<br>
+jQuery.ScrollTo 1.4.2<br>
+Isotope 1.5.06<br>
+SWFObject 2.2<br>
+Google Analytics</p>
+
+<p><strong>software used</strong><br>
+Adobe Photoshop CS5<br>
+Adobe Dreamweaver CS5</p>  
+
+
+  -->
