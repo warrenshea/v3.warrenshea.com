@@ -22,7 +22,7 @@ if ($_GET["feed"] == "rss2") {
     <meta http-equiv="X-UA-Compatible" content="IE=9;IE=8;IE=7;IE=6;IE=EDGE;chrome=1">
     <meta name="revised" content="Warren Shea, 11/06/2012">
     <meta name="description" content="Warren Shea's Resume and Portfolio">
-    <meta name="keywords" content="Warren Shea,Warren,Shea,Resume,Portfolio">
+    <meta name="keywords" content="Warren Shea,Resume,Portfolio">
     <meta name="author" content="Warren Shea">
     <title>Warren Shea</title>
     <link rel="Icon" type="image/png" href="common/images/favicon.png">
