@@ -29,7 +29,7 @@ if ($_GET["feed"] == "rss2") {
     <? if ($old) {?><link rel="stylesheet" href="common/proxy.php?url=stylesheet.css&type=css"><? } else { ?><link rel="stylesheet" href="common/stylesheet.css"><? } echo "\n"; ?>
   </head>
   <body>
-<? if ($old) {?>    <script>alert ('This site uses HTML5 which is not supported with the browser you are using. Some items may not function as intended. Please use a modern browser (Chrome, Firefox, Safari, or Internet Explorer 9) for the full experience.');</script><? echo "\n"; ?><? } ?>
+<? if ($old) {?>    <script>alert ('This site uses HTML5 which is not supported with the browser you are using. Some items may not function as intended. Please use a modern browser (Chrome, Firefox, Safari, Edge or Internet Explorer 11) for the full experience.');</script><? echo "\n"; ?><? } ?>
 <? if ($old) {?>
     <div id="header">
       <div id="nav">
