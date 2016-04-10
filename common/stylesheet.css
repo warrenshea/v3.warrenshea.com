@@ -1,6 +1,5 @@
 /*
 @group reset styles
-@group print styles
 @group general styles
 @group page components
 */
@@ -17,13 +16,9 @@ blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
 table{border-collapse:collapse;border-spacing:0}
 .center{text-align:center}
-.clear{clear:both}
+.clear:before,.clear:after {content: " ";display: table;}
+.clear:after {clear: both;}
 .small{font-size:0.9em}
-
-/* @group print styles */
-@media print{
-
-}
 
 /* @group general styles */
 html{font-size:0.75em;font-family:arial,sans-serif;color:#444;height:100%;width:100%;min-width:800px;line-height:1.5em;overflow:hidden}
