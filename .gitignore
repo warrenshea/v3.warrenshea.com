@@ -9,9 +9,9 @@ htaccess.txt
 *.gif
 *.htm
 portfolio/
+
 node_modules/
 _site/
-.gitignore
 npm-debug.log
 
 # Windows image file caches
