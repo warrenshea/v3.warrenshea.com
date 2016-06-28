@@ -1,13 +1,31 @@
 var gulp      = require('gulp'),
   connect     = require('gulp-connect-php'),
   browserSync = require('browser-sync');
+  gutil       = require('gulp-util');
+  ftp         = require('gulp-ftp');
+
+gulp.task('ftp-to-prod', ['build'], function (done) {
+  return gulp.src('_site/**/*')
+    .pipe(ftp({
+       host: '',
+       user: '',
+       pass: '',
+       remotePath: ''
+    }))
+    .pipe(gutil.noop());
+});
+
+gulp.task('ftp-success', ['ftp-to-prod'], function (done) {
+  return gulp.src('./default.php')
+    .pipe(gulp.dest('./_site/'));
+});
 
 gulp.task('build', function (done) {
   gulp.src('./common/**/*')
     .pipe(gulp.dest('./_site/common/'));
   gulp.src('./portfolio/**/*')
     .pipe(gulp.dest('./_site/portfolio/'));
-  gulp.src('./default.php')
+  return gulp.src('./default.php')
     .pipe(gulp.dest('./_site/'));
 });
 
@@ -27,3 +45,4 @@ gulp.task('connect-sync', function() {
 });
 
 gulp.task('default', ['build','connect-sync']);
+gulp.task('deploy', ['build','ftp-to-prod','ftp-success']);
