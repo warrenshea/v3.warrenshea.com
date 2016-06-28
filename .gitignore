@@ -8,8 +8,9 @@ htaccess.txt
 *.png
 *.gif
 *.htm
-/portfolio/*
+portfolio/
 node_modules/
+_site/
 .gitignore
 npm-debug.log
 
