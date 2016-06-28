@@ -3,6 +3,7 @@
 #################
 unload.php
 htaccess.txt
+.htaccess
 *.jpg
 *.png
 *.gif
