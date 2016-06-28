@@ -4,8 +4,9 @@ var gulp      = require('gulp'),
   gutil       = require('gulp-util');
   ftp         = require('gulp-ftp');
 
-gulp.task('ftp-to-prod', ['build'], function (done) {
-  return gulp.src('_site/**/*')
+gulp.task('ftp-to-prod', function (done) {
+  //return gulp.src('_site/**/*') //full deploy
+  return gulp.src('_site/**/*.{php,html,xml,js,css}') //only code files
     .pipe(ftp({
        host: '',
        user: '',
@@ -45,4 +46,4 @@ gulp.task('connect-sync', function() {
 });
 
 gulp.task('default', ['build','connect-sync']);
-gulp.task('deploy', ['build','ftp-to-prod','ftp-success']);
+gulp.task('deploy', ['ftp-to-prod','ftp-success']);
