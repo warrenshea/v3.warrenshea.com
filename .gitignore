@@ -1,6 +1,7 @@
 #################
 ## My Files
 #################
+.gitignore
 unload.php
 htaccess.txt
 .htaccess
@@ -13,6 +14,7 @@ portfolio/
 node_modules/
 _site/
 npm-debug.log
+gulpfile.config.js
 
 # Windows image file caches
 Thumbs.db
