@@ -1,7 +1,7 @@
-# [warrenshea.com version 3 (2010)](http://v3.warrenshea.com)
+# [warrenshea.com version 3 (2012)](http://v3.warrenshea.com)
 Warren Shea's Portfolio and Resume Version 3 (Greymon)
 
-warrenshea.com is the Portfolio and Resume site for for Warren Shea (Front-end Web Developer). This site is supposed to highlight my development skill, at the time (2010).
+warrenshea.com is the Portfolio and Resume site for for Warren Shea (Front-end Web Developer). This site is supposed to highlight my development skill, at the time (2012).
 
 ## Frameworks, Tools
 
